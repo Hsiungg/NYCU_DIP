@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.gif
+*.bmp
+*.docx
+*.zip
+*/__pycache__
+/textbook.pdf
+*_Template.pdf
